@@ -1,7 +1,0 @@
-C:\Users\LENOVO T450\source\repos\SalesReason\SalesReason\obj\Debug\net6.0\SalesReason.csproj.AssemblyReference.cache
-C:\Users\LENOVO T450\source\repos\SalesReason\SalesReason\obj\Debug\net6.0\SalesReason.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LENOVO T450\source\repos\SalesReason\SalesReason\obj\Debug\net6.0\SalesReason.AssemblyInfoInputs.cache
-C:\Users\LENOVO T450\source\repos\SalesReason\SalesReason\obj\Debug\net6.0\SalesReason.AssemblyInfo.cs
-C:\Users\LENOVO T450\source\repos\SalesReason\SalesReason\obj\Debug\net6.0\SalesReason.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO T450\source\repos\SalesReason\SalesReason\obj\Debug\net6.0\SalesReason.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\LENOVO T450\source\repos\SalesReason\SalesReason\obj\Debug\net6.0\SalesReason.MvcApplicationPartsAssemblyInfo.cache
